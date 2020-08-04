@@ -204,3 +204,7 @@ hr {
      width: 100%;
   }
 }
+
+.nav>li>a:focus, .nav>li>a:hover {
+    background-color: #104E14 !important;
+}
